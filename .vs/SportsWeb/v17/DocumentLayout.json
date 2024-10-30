@@ -1,0 +1,1008 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\products\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\products\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\migrations\\20241018165007_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\migrations\\20241018165007_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\products\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\products\\_productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\shared\\login\u0026register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\shared\\login\u0026register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\shared\\dsporttemp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\shared\\dsporttemp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\migrations\\20241019103848_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\migrations\\20241019103848_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\migrations\\20241019094058_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\migrations\\20241019094058_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\sportsweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\sportsweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\sportsweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\sportsweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|c:\\users\\lenovo\\source\\projects\\sportweb\\sportsweb\\sportsweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0152393F-CD04-488A-990C-39234A27C620}|SportsWeb\\SportsWeb.csproj|solutionrelative:sportsweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T08:29:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:07:30.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:57:52.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T15:16:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SportsWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SportsWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-20T10:56:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:37:59.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T15:16:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Test.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Products\\Test.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Test.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Products\\Test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:36:14.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T09:59:32.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T09:29:08.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:53:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:57:48.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T12:29:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241018165007_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\20241018165007_Initial.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Migrations\\20241018165007_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\20241018165007_Initial.cs",
+              "RelativeToolTip": "SportsWeb\\Migrations\\20241018165007_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:50:08.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T17:23:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:21:01.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SportsWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:04:47.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "SportsWeb\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:01:48.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "SportsWeb\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:59:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "SportsWeb\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:57:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "SportsWeb\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:58:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SportsWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\appsettings.json",
+              "RelativeToolTip": "SportsWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T16:46:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Program.cs",
+              "RelativeToolTip": "SportsWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:46:13.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:39:30.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ProductImage.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:38:20.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:37:44.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\Product.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:35:59.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\Category.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:36:51.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Products\\_ProductList.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Products\\_ProductList.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Products\\_ProductList.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Products\\_ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:06:09.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:57:49.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwEQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:57:51.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T09:31:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T16:36:53.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T16:36:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:16:49.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:35:38.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBJwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T12:16:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SportsWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SportsWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T15:06:56.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:53:13.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:43:06.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:14:08.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login\u0026Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\Login\u0026Register.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Shared\\Login\u0026Register.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\Login\u0026Register.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Shared\\Login\u0026Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T14:33:58.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:22:15.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T14:30:28.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T14:28:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T14:28:32.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T14:28:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\DsportTemp\\index.html",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Shared\\DsportTemp\\index.html",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\DsportTemp\\index.html",
+              "RelativeToolTip": "SportsWeb\\Views\\Shared\\DsportTemp\\index.html",
+              "ViewState": "AgIAAJ4AAAAAAAAAAABRwLgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T15:58:21.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SportsWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:32:16.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SportsWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T14:35:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:30:05.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:28:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "SportsWeb\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:26:25.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241019094058_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\20241019094058_AddIdentity.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Migrations\\20241019094058_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\20241019094058_AddIdentity.cs",
+              "RelativeToolTip": "SportsWeb\\Migrations\\20241019094058_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:26:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241019103848_ExtendIdentityUser.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\20241019103848_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Migrations\\20241019103848_ExtendIdentityUser.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Migrations\\20241019103848_ExtendIdentityUser.cs",
+              "RelativeToolTip": "SportsWeb\\Migrations\\20241019103848_ExtendIdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:38:49.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SportsWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SportsWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-19T13:49:04.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SportsWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\SportsWeb.csproj",
+              "RelativeDocumentMoniker": "SportsWeb\\SportsWeb.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\SportsWeb.csproj",
+              "RelativeToolTip": "SportsWeb\\SportsWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T09:42:29.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\SD.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:52:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SportsWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SportsWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:40:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SportsWeb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\SportsWeb.csproj",
+              "RelativeDocumentMoniker": "SportsWeb\\SportsWeb.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\SportsWeb.csproj",
+              "RelativeToolTip": "SportsWeb\\SportsWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T15:47:09.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SportsWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Projects\\SportWeb\\SportsWeb\\SportsWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SportsWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T10:28:08.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
